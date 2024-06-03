@@ -1,4 +1,3 @@
-# utils.py
 from tkinter import filedialog as fd
 
 def UploadAction(file_label):
